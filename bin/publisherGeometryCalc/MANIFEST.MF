@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Calculator
+Bundle-SymbolicName: Calculator
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: calculatorPublisher.Activator
+Export-Package: calculatorPublisher
+Import-Package: org.osgi.framework;version="1.3.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+
